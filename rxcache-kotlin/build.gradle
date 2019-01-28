@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 apply plugin: "guru.stefma.bintrayrelease"
-
+group='com.github.AllenCoder.RxCache-Kotlin'
 android {
     compileSdkVersion 28
     lintOptions {
