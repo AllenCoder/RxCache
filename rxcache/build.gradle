@@ -1,8 +1,9 @@
+group='com.github.AllenCoder.RxCache'
 apply plugin: 'com.android.library'
 apply plugin: "guru.stefma.bintrayrelease"
 apply plugin: 'com.github.dcendents.android-maven'
 
-group='com.github.AllenCoder.RxCache'
+
 android {
     compileSdkVersion 28
 
